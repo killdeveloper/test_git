@@ -18,7 +18,7 @@ jobs:
     - name: Set up Flutter
       uses: subosito/flutter-action@v2
       with:
-        flutter-version: '3.22.3' # نسخه Flutter مورد نظر خود را مشخص کنید
+        flutter-version: '3.24.0' # نسخه Flutter مورد نظر خود را مشخص کنید
         channel: 'stable'
 
     - name: Enable Windows desktop
